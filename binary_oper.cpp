@@ -27,3 +27,11 @@ Number temp;
 int main()
 {
     number n1, n2, n3, n4;
+cout << "Enter first number:" << endl;
+    n1.getData();
+
+    cout << "Enter second number:" << endl;
+    n2.getData();
+
+    cout << "Enter second number:" << endl;
+    n4.getData();
