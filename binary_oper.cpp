@@ -13,4 +13,10 @@ public:
  }
 
     Number operator+( Number n)
+Number temp;
+        temp.num = num + n.num;
+        return temp;
+}
+
+
 
