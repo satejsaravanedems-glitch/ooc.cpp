@@ -10,3 +10,7 @@ public:
     {
         cout << "Enter a number: ";
         cin >> num;
+ }
+
+    Number operator+( Number n)
+
