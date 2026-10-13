@@ -17,6 +17,12 @@ Number temp;
         temp.num = num + n.num;
         return temp;
 }
+ }
 
+    void display()
+    {
+        cout << "Sum = " << num << endl;
+    }
+};
 
 
