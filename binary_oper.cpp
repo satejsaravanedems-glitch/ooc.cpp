@@ -35,3 +35,10 @@ cout << "Enter first number:" << endl;
 
     cout << "Enter second number:" << endl;
     n4.getData();
+
+    n3 = n1 + n4 + n2;
+
+    n3.display();
+
+    return 0;
+}
